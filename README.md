@@ -1,2 +1,2 @@
 # itstep
-https://NikkiNovs.github.io/itstep/cv
+[Мой CV](https://NikkiNovs.github.io/itstep/CV)
