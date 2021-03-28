@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ff90038-a6d4-43d1-a26a-7cacee598d82" name="Default Changelist" comment="" />
+    <list default="true" id="9ff90038-a6d4-43d1-a26a-7cacee598d82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Catalogi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index8.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5comp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index9.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5cs.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,7 +46,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../index2.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.css" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT\Task1" />
+      <recent name="D:\Материалы Front-End\Task1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +67,18 @@
       <updated>1616002020115</updated>
       <workItem from="1616002021460" duration="3646000" />
       <workItem from="1616095950222" duration="7326000" />
-      <workItem from="1616147930897" duration="3131000" />
+      <workItem from="1616147930897" duration="3727000" />
+      <workItem from="1616319447786" duration="97000" />
+      <workItem from="1616338855440" duration="264000" />
+      <workItem from="1616340048870" duration="5220000" />
+      <workItem from="1616347617366" duration="1917000" />
+      <workItem from="1616438132005" duration="4619000" />
+      <workItem from="1616442959268" duration="2813000" />
+      <workItem from="1616516278017" duration="2845000" />
+      <workItem from="1616599567062" duration="3286000" />
+      <workItem from="1616615541577" duration="312000" />
+      <workItem from="1616774278282" duration="4614000" />
+      <workItem from="1616922166567" duration="6904000" />
     </task>
     <servers />
   </component>
