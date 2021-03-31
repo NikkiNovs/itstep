@@ -2,22 +2,36 @@ body {
     color: blue;
     background: #f8f8f8;
 }
-.list {
+.menu {
     list-style: none;
     font-size: 20px;
-    font-family: "Times New Roman", serif, Verdana;
+    font-family: "Lucida Console", fantasy, Verdana;
+    color: blue;
+    text-decoration: none;
+}
+.menu:hover{
+    font-weight: 400;
+    color: red;
 }
 .name{
     color: black;
     font-size: 18px;
     font-weight: 400;
-    font- #eaeaea;
+    background-color: #eaeaea;
+}
+.zagol{
+    color: black;
+    background-color: lightgray;
+    font-family: "Lucida Console", monospace, Verdana;
+    font-weight: lighter;
+    margin: -40px 0 0 130px;
 }
 .krtext{
     color: #707070;
     font-size: 14px;
     font-style: italic;
     line-height: 16px;
+    width: 500px;
 }
 .listm5{
     color: #484343;
@@ -26,14 +40,62 @@ body {
     line-height: 24px;
     text-align: left;
 }
-input {
+.input {
     border: 2px solid blue;
     border-radius: 4px;
-    width: 30%;
-    height: 50px;
+    width: 20%;
+    height: 30px;
+    font-style: italic;
+    font-family: serif;
+    text-transform: capitalize;
+}
+.inputmail{
+    border: 2px solid blue;
+    border-radius: 4px;
+    width: 20%;
+    height: 30px;
     font-style: italic;
     font-family: serif;
 }
+.inputmail:hover{
+    color: red;
+}
+.message {
+    border: 2px solid blue;
+    border-radius: 4px;
+    width: 20%;
+    height: 80px;
+    font-style: italic;
+    font-family: serif;
+    text-transform: capitalize;
+}
+.list li{
+    list-style: none;
+    list-style-image: url("https://img.icons8.com/small/2x/iron-man.png");
+}
 
-
+.zagmenu{
+    background-color: chocolate;
+}
+.perehod{
+    border: 2px solid darkslategray;
+    border-radius: 3px;
+    text-decoration: none;
+    color: darkslategray;
+}
+.logo{
+    width: 120px;
+   }
+table{
+    border: 3px solid black;
+}
+th, td {
+    border: 1px solid grey;
+}
+img {
+    border: 3px solid blue;
+}
+img:hover {
+    border: 3px solid red;
+}
 
