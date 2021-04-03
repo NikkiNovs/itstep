@@ -2,12 +2,27 @@ body {
     color: blue;
     background: #f8f8f8;
 }
+.header{
+       height: 200px;
+    background: url("https://bmw.obves.kiev.ua/wp-content/uploads/2019/05/2019_bmw_m5_competition_5_1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.list{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: -50px 0px;
+}
 .menu {
     list-style: none;
-    font-size: 20px;
+    font-size: 35px;
     font-family: "Lucida Console", fantasy, Verdana;
     color: blue;
     text-decoration: none;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
 }
 .menu:hover{
     font-weight: 400;
@@ -18,20 +33,53 @@ body {
     font-size: 18px;
     font-weight: 400;
     background-color: #eaeaea;
+
+}
+.name1{
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
+.name2{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+.katalogM5{
+    display: flex;
+    flex-direction: row;
+}
+.buy{
+    align-self: flex-end;
+}
+.buy:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+.buy:active{
+    background: blue;
 }
 .zagol{
-    color: black;
-    background-color: lightgray;
+    color: red;
+    font-size: 60px;
     font-family: "Lucida Console", monospace, Verdana;
     font-weight: lighter;
-    margin: -40px 0 0 130px;
+    display: flex;
+    justify-content: center;
+    margin: 70px 0px;
+    text-shadow: 2px 2px 6px black, 0 0 2em black;
+}
+.container{
+    background: url("https://www.bmw.ru/content/dam/bmw/marketRU/bmw_ru/topics/fascination-bmw/bmw-m-logo-and-colors/bmw-m-logo-and-colors.jpg");
+    background-position: center;
 }
 .krtext{
-    color: #707070;
-    font-size: 14px;
+    color: royalblue;
+    font-size: 30px;
     font-style: italic;
-    line-height: 16px;
-    width: 500px;
+    line-height: 40px;
+    width: 100%;
+    text-align: center;
 }
 .listm5{
     color: #484343;
@@ -98,4 +146,31 @@ img {
 img:hover {
     border: 3px solid red;
 }
+.footer{
+    height: 30px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 20px;
+}
+.catalog{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.katCompt{
+    border: 1px solid black;
+    width: 30%;
+    margin-right: 20px;
+}
+.katCS{
+    border: 1px solid black;
+    width: 30%;
+    margin-right: 20px;
+}
+.map{
+    width: 100%;
+    height: 364px;
+}
+
 
