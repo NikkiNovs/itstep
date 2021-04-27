@@ -1,0 +1,279 @@
+@media screen and (max-width: 1365px){
+   /* .home_page{
+        width: 1100px;
+    }*/
+    .boss_box{
+        width: 1100px;
+        background-position: center;
+    }
+    .explor{
+        width: 1100px;
+        height: 1100px;
+
+    }
+    .exp_content{
+        display: flex;
+        flex-wrap: wrap;
+        height: 500px;
+    }
+    .tovar_exclusiv{
+        width: 1100px;
+    }
+    .exclusiv_1{
+        background-position: center;
+    }
+    .exclusiv_2{
+        background-position: center;
+    }
+    .trending{
+        width: 1100px;
+        align-items: center;
+    }
+    .img_trend{
+        width: 300px;
+        height: 300px;
+    }
+    .trend {
+        width: 300px;
+        height: 300px;
+        margin: 5px;
+    }
+    .trend_tovar{
+        width: 1100px;
+    }
+    .hot{
+        width: 1100px;
+        background-position: center;
+    }
+    .float{
+        width: 1100px;
+        height: 1300px;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+    }
+    .big_float{
+        justify-content: center;
+        height: 600px;
+    }
+    .small_float{
+        width: 300px;
+        height: 300px;
+    }
+    .img_float{
+        width: 300px;
+        height: 300px;
+    }
+    .mobile{
+        width: 1100px;
+        background-position: center;
+    }
+    .footer{
+        width: 1100px;
+    }
+    .footer1{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .contact_us{
+        margin: 0;
+    }
+    .useful{
+        margin: 0;
+    }
+    .lets{
+        margin: 0;
+    }
+}
+@media screen and (max-width: 1120px){
+   /* .home_page{
+        width: 700px;
+    }*/
+    .boss_box{
+        width: 700px;
+        background-position: center;
+        align-items: flex-start;
+    }
+    .header{
+        padding: 0 0;
+    }
+    .content_box{
+        margin: 200px 0;
+    }
+    .boss_menu{
+        display: none;
+    }
+    .dropdown{
+        margin: 100px 100px 0 0;
+        display: inline-block;
+    }
+    .menu{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .explor{
+        width: 700px;
+    }
+    .fut{
+        margin: 120px 0;
+    }
+    .exp_content{
+        padding: 0;
+        justify-content: center;
+    }
+    .tovar_exclusiv{
+        width: 700px;
+        height: 1420px;
+        flex-wrap: wrap;
+    }
+    .trending{
+        width: 700px;
+        height: 1300px;
+        align-items: center;
+    }
+    .img_trend{
+        width: 250px;
+        height: 250px;
+    }
+    .trend {
+        width: 250px;
+        height: 250px;
+        margin: 5px;
+
+    }
+    .trend_tovar{
+        height: 1500px;
+        width: 700px;
+        justify-content: center;
+    }
+    .future_box{
+        flex-wrap: wrap;
+    }
+    .exp{
+        margin: 0;
+    }
+    .hot{
+        width: 700px;
+        background-position: center;
+        align-items: flex-start;
+    }
+    .float{
+        width: 700px;
+    }
+    .small_float{
+        width: 250px;
+        height: 250px;
+    }
+    .img_float{
+        width: 250px;
+        height: 250px;
+    }
+    .mobile{
+        width: 700px;
+    }
+    .footer{
+        width: 700px;
+    }
+    .footer1{
+        width: 700px;
+
+    }
+    .useful{
+        flex-wrap: wrap;
+        width: 237px;
+    }
+    .social{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .name1{
+        font-size: 15px;
+    }
+    .sales{
+        font-size: 10px;
+    }
+    .adres{
+      font-size: 10px;
+        word-wrap: break-word;
+    }
+    .mail{
+        font-size: 10px;
+        word-wrap: break-word;
+    }
+    .adres1{
+        word-wrap: break-word;
+    }
+    .contact_us{
+        margin: 0;
+    }
+    .useful{
+        margin: 0;
+    }
+    .lets{
+        margin: 0;
+    }
+
+}
+@media screen and (max-width: 720px){
+   /* .home_page{
+        width: 500px;
+    }*/
+    .boss_box{
+        width: 500px;
+        background-position: center;
+        align-items: flex-start;
+    }
+    .explor{
+        width: 500px;
+        height: 1300px;
+        justify-content: flex-start;
+    }
+    .future_box{
+        height: 150px;
+        align-items: flex-start;
+    }
+    .tovar_exclusiv{
+        width: 500px;
+    }
+    .trending{
+        width: 500px;
+        justify-content: flex-end;
+    }
+    .hot{
+        width: 500px;
+        background-position: center;
+        align-items: flex-start;
+    }
+    .float{
+        width: 500px;
+    }
+    .small_float{
+        width: 200px;
+        height: 200px;
+    }
+    .img_float{
+        width: 200px;
+        height: 200px;
+    }
+    .excl_float{
+        width: 500px;
+        height: 500px;
+    }
+    .mobile{
+        width: 500px;
+    }
+    .mobile_app{
+        margin: 120px 50px 0;
+    }
+    .footer{
+        width: 500px;
+    }
+    .mobile_app{
+        margin: 120px 50px 0;
+    }
+    .footer1{
+        justify-content: center;
+    }
+
+}
